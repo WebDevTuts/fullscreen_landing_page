@@ -48,3 +48,10 @@ body {
   color: #fff;
   background-color: #926239;
 }
+
+#section-a {
+  padding: 20px;
+  background-color: #926239;
+  color: #fff;
+  text-align: center;
+}
